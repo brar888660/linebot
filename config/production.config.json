@@ -1,0 +1,11 @@
+{
+    "hookPath": "webHook",
+    "port": 3000,
+    "auth": {
+        "linebot": {
+            "channelId": "channelId",
+            "channelSecret": "channelSecret",
+            "channelAccessToken": "channelAccessToken"
+        }      
+    }
+}
